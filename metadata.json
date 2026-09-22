@@ -1,0 +1,6 @@
+{
+  "name": "RPG Maker Game AI Translator",
+  "description": "مترجم ألعاب RPG Maker المدعوم بالذكاء الاصطناعي مع دعم التعريب الكامل، حفظ التقدم، استبدال الخطوط، وتجربة اللعبة بالمتصفح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
